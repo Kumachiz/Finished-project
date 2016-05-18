@@ -1,0 +1,45 @@
+html{
+	padding: 3%;
+}
+nav {
+	color: white;
+	text-emphasis-color: orange;
+	text-transform: uppercase;
+	background-color: #dddddd;
+	padding-left: 10px;
+	height: 25px;
+	width: 120px;
+	padding-top: 4px;
+ 	display: block;
+ 	border-style: groove;
+	border-color: red;
+	border-radius: 15%;
+	border-style: groove;
+	border-spacing: inherit;
+ }
+.why {
+	padding: 12px;
+
+}
+.hobbies {
+	margin: 16px;
+  border: 3px solid navy;
+  padding: 6px;
+	background-color: gold;
+	float: bottom;
+	padding-right: 5%;
+	border-style: dotted;
+}
+img {
+	padding: 0%;
+}
+.caption {
+ color: navy;
+}
+.span {
+	color: green;
+}
+.me {
+	font-family: fantasy;
+	font-variant: normal;
+}
