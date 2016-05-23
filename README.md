@@ -10,7 +10,7 @@ _.This page includes an About page that has more information about my background
 
 ## Setup/Installation Requirements
 
-* [_Go to my Git Hub link_](https://github.com/Kumachiz/Finished-project.git//)
+* [_Go to my Git Hub link_](http://kumachiz.github.io/Finished-project///)
 * _Now that you're on my landing page, you can navigate About me page as well._
 * _If interested in keeping the photos in my page, do so by right clicking on the image and clicking save or save as._
 
